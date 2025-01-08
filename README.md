@@ -105,7 +105,7 @@ In this exercise, you will create a simple personal webpage using **HTML** and h
 
 ---
 
-## **Marking Rubric (20 Marks)**
+## **Marking Rubric (100 Marks)**
 
 | **Criteria**                      | **0%**                  | **25%-75%**                  | **100%**                  | **Marks** |
 |-----------------------------------|------------------------------|------------------------------|------------------------------|-----------|
