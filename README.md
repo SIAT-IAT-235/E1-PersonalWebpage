@@ -57,7 +57,7 @@ In this exercise, you will create a simple personal webpage using **HTML** and h
        | HTML             | Beginner      |  
 
    - **Projects/Portfolio Section:**  
-     - If you have projects or a portfolio, showcase them here. Include a title, a brief description, and a link (if applicable).  
+     - If you have projects or a portfolio, showcase them here. Include a title, a brief description, an image, and a link (if applicable).  
      - If you don’t have any projects to showcase, be creative! You can add mock projects, describe hobbies, or create an imaginative section that represents your interests or aspirations.  
 
    - **Contact Section:**  
